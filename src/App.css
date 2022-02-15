@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+p {
+  margin: 0;
+  font-family: "Courier New", monospace;
+  line-height: 13px;
+  user-select: none;
+}
 
 .App-logo {
   height: 40vmin;
